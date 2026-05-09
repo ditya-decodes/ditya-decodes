@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Ditya! 👋
 
 I'm a **Software Development Engineer (SDE) Aspirant** and a Computer Science student at **IPEC**. 
