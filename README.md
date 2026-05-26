@@ -1,10 +1,11 @@
 # Hi, I'm Ditya! 👋
 
 I'm a **Software Development Engineer (SDE) Aspirant** and a Computer Science student at **IPEC**. 
+Pre-final year student specializing in Java Full-Stack development blended with Generative AI functionalities.
 I love building things that live on the internet and solving complex algorithmic challenges.
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** Java, Python, C++
+- **Languages:** Java, Python, C
 - **Web Dev:** HTML, CSS, JavaScript, React (learning)
 - **Tools:** Git, GitHub, VS Code
 
