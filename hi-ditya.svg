@@ -27,14 +27,14 @@
   </defs>
 
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="text-base" fill="none" stroke="#ffffff" stroke-width="1.5">
-    Hi I'm Ditya.
+    Hi, I'm Ditya!
   </text>
 
   <use href="#blob" />
 
   <g clip-path="url(#blob-clip)">
     <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="text-base" fill="#0d1117">
-      Hi I'm Ditya.
+      Hi, I'm Ditya!
     </text>
   </g>
 </svg>
